@@ -1,4 +1,4 @@
-# sql BASIC SELECTS
+# SQL BASIC SELECTS
 
 SQL introduction for unit 1.
 
