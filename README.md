@@ -11,4 +11,10 @@ CREATE TABLE series (
          ,Genero VARCHAR (228) NOT NULL
          );
          
-INSERT...
+# INSERT...
+
+INSERT INTO `favorites`(`Timestamp`,`title`,`genres`) VALUES ("10/25/2021 11:21:46","How i met your mother","Comedy");
+
+# Show all customers table columms.
+
+Select * from customers;
